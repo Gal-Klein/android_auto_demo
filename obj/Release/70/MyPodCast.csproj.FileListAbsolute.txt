@@ -1,0 +1,6 @@
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\70\MonoAndroid,Version=v7.0.AssemblyAttributes.cs
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\70\MyPodCast.nuget.stamp
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\70\MyPodCast.csprojAssemblyReference.cache
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\70\libraryimports.cache.stamp
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\70\res.flag
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\70\MyPodCast.csproj.CoreCompileInputs.cache

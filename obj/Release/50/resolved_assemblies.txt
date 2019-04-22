@@ -1,0 +1,17 @@
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\MyPodCast.dll
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\Java.Interop.dll
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\Microsoft.CSharp.dll
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\Mono.Android.dll
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\mscorlib.dll
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\Newtonsoft.Json.dll
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\SkiaSharp.dll
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\SkiaSharp.Views.Android.dll
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\System.Core.dll
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\System.dll
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\System.Net.Http.dll
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\System.Xml.dll
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\System.Runtime.Serialization.dll
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\System.Data.dll
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\System.Numerics.dll
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\System.Xml.Linq.dll
+C:\Source\VoiceUserInterfacesProjects\src\ch9\MyPodCast\obj\Release\50\android\assets\Mono.Security.dll
